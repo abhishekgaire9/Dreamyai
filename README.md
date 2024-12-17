@@ -74,7 +74,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 Demo
 <img width="1680" alt="Screenshot 2024-12-17 at 10 39 58 AM" src="https://github.com/user-attachments/assets/000e9655-98c7-4255-b654-521afcfbcbed" />
 
-Analytics
+
 <img width="700" alt="Screenshot 2024-12-17 at 10 37 27 AM" src="https://github.com/user-attachments/assets/55e23d21-deca-41da-bf66-feae07022e04" />
 
 
