@@ -75,10 +75,10 @@ Demo
 <img width="1680" alt="Screenshot 2024-12-17 at 10 39 58 AM" src="https://github.com/user-attachments/assets/000e9655-98c7-4255-b654-521afcfbcbed" />
 
 Analytics
-<img width="957" alt="Screenshot 2024-12-17 at 10 37 27 AM" src="https://github.com/user-attachments/assets/55e23d21-deca-41da-bf66-feae07022e04" />
+<img width="700" alt="Screenshot 2024-12-17 at 10 37 27 AM" src="https://github.com/user-attachments/assets/55e23d21-deca-41da-bf66-feae07022e04" />
 
-UI
-<img width="300" alt="Screenshot 2024-12-17 at 10 36 03 AM" src="https://github.com/user-attachments/assets/ae7fa4d0-b375-4f31-ada6-9948ad0e4287" />
-<img width="247.5" alt="Screenshot 2024-12-17 at 10 48 43 AM" src="https://github.com/user-attachments/assets/88502de0-a2ce-41db-b18e-d60a3f0a4fdf" />
+
+<img width="400" alt="Screenshot 2024-12-17 at 10 36 03 AM" src="https://github.com/user-attachments/assets/ae7fa4d0-b375-4f31-ada6-9948ad0e4287" />
+<img width="300" alt="Screenshot 2024-12-17 at 10 48 43 AM" src="https://github.com/user-attachments/assets/88502de0-a2ce-41db-b18e-d60a3f0a4fdf" />
 
 
