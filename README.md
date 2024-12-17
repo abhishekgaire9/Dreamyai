@@ -69,6 +69,24 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
+## Features
+
+### 1. Dream Logging
+- **Input Dreams**: Users can easily input their dreams via text or voice recording, ensuring that all details are captured accurately.
+
+### 2. AI Interpretation Generation
+- **Intelligent Insights**: The app employs AI algorithms to generate interpretations based on:
+  - **Vedic Knowledge**: Insights derived from ancient texts and symbolism.
+  - **Psychological Theories**: Including Jungian concepts of archetypes and symbols.
+  - **Dream Meaning Database**: A comprehensive database of common dream meanings tailored to individual contexts.
+
+### 3. User-Friendly Interface
+- **Sleek Design**: The interface is designed for easy navigation, allowing users to effortlessly view their dream logs, interpretations, and related insights.
+
+### 4. Symbol Recognition
+- **Key Symbol Identification**: The application identifies key symbols within dreams and provides explanations based on both traditional and contemporary insights.
+
+
 ## Screenshots
 
 Demo
